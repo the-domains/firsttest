@@ -1,25 +1,25 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2015-12-10T17:02:11.312Z'
-dateModified: '2015-12-10T17:01:56.587Z'
-title: Title of post
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-22T06:39:00.682Z'
 sourcePath: _posts/2015-12-10-title-of-post.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-22T06:39:00.152Z'
+title: asdasd
+publisher: {}
+description: 'Ok, this is nice, but I need tomake'
+inLanguage: null
+inNav: false
+starred: false
 url: title-of-post/index.html
 _type: Article
 
 ---
-Sample of post
+![CAption](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6908bac4-4787-4b4d-a11d-0a3d4410f51b.png)
+
+Ok, this is nice, **but **I need tomake
+
+## asdasd
